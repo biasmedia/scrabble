@@ -74,3 +74,11 @@ Other apps?
 - [Word Cheats (for Scrabble)](https://apps.apple.com/us/app/word-cheats-for-scrabble/id1479634673)
 - [Descrambler](https://apps.apple.com/us/app/descrambler-word-game-cheat/id352148853)
     - This is the application with the cheat mode that Julia uses
+
+## Troubleshooting
+
+### Failures During `npx react-native run-ios`
+
+> The following build commands failed: PhaseScriptExecution [CP-User]\ Generate\ Specs /Users/3ygun/Library/Developer/Xcode/DerivedData/Scrabblee-agevzmqjmpvvahdfnozdcrxikbsd/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FBReactNativeSpec.build/Script-7FB7093881F8ED55A76C2B4940D47D19.sh
+
+[My StackOverflow Comment](https://stackoverflow.com/a/67865377/6480404)
