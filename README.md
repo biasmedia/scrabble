@@ -72,3 +72,5 @@ Other apps?
 - [Marriam Webster's Website Verson](https://scrabble.merriam.com/words/start-with/an)
     - Doesn't seem mobile friendly
 - [Word Cheats (for Scrabble)](https://apps.apple.com/us/app/word-cheats-for-scrabble/id1479634673)
+- [Descrambler](https://apps.apple.com/us/app/descrambler-word-game-cheat/id352148853)
+    - This is the application with the cheat mode that Julia uses
